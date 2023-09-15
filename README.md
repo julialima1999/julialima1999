@@ -1,6 +1,5 @@
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/julialima1999/count.svg?"  />
 
 ###
 
@@ -40,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
 </div>
 
 ###
