@@ -46,7 +46,6 @@
   <img src="https://streak-stats.demolab.com?user=julialima1999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julialima1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
 
-  <img src="https://raw.githubusercontent.com/julialima1999/julialima1999/output/snake.svg" alt="Snake animation" />
 </div>
 
 <br />
